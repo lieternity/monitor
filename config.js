@@ -5,7 +5,7 @@ window.Config = {
     SiteName: "包子' s Monitor",
 
     // 站点链接
-    SiteUrl: 'https://blog.bugjava.cn/monitor/',
+    SiteUrl: 'https://monitor.bugjava.cn',
 
     // UptimeRobot Api 域名
     // 只需填写域名部分，默认为官网域名
@@ -16,9 +16,12 @@ window.Config = {
     // UptimeRobot Api Keys
     // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
     ApiKeys: [
+    'm788116906-07a614a69128fadf372e9d0c',
     'm787156656-e04a7a7c80b5898421238175',
     'm788053251-cacfbbfeffeca935e66211af',
+    'm788116879-b556e55b9b32e1b62290638f',
     'm788053244-49fbf168d382c84178afeb88',
+    'm788116920-519781a4be82f1932a48641f',
     'm788053176-a744575a41c4d0cdf8247f4a',
   ],
 
